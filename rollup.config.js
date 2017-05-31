@@ -6,8 +6,8 @@ export default {
   plugins: [node(), ascii()],
   output: {
     extend: true,
-    file: "build/d3.js",
+    file: "build/d3-sugar.js",
     format: "umd",
-    name: "d3"
+    name: "d3sugar"
   }
 };

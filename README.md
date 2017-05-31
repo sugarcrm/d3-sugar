@@ -4,6 +4,10 @@
 
 **D3** (or **D3.js**) is a JavaScript library for visualizing data using web standards. D3 helps you bring data to life using SVG, Canvas and HTML. D3 combines powerful visualization and interaction techniques with a data-driven approach to DOM manipulation, giving you the full capabilities of modern browsers and the freedom to design the right visual interface for your data.
 
+## NOTE!
+
+This is a custom bundle of D3 version 4.13.0 including a subset of modules used only in SugarCRM. This package will likely be deprecated in the future once SugarCRM no longer needs to dual loads D3.v3 and D3.v4.
+
 ## Resources
 
 * [API Reference](https://github.com/d3/d3/blob/master/API.md)
